@@ -1,0 +1,7 @@
+# Raw data is never committed
+data/*
+!data/.gitkeep
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+.venv/
